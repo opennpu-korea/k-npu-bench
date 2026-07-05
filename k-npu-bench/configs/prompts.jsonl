@@ -1,0 +1,4 @@
+{"id":"short_ko","messages":[{"role":"user","content":"국산 NPU에서 LLM 추론을 벤치마크할 때 TTFT와 TPOT가 왜 중요한지 3문장으로 설명해줘."}]}
+{"id":"coding","messages":[{"role":"user","content":"Python으로 리스트의 중복 값을 제거하되 원래 순서를 유지하는 함수를 작성하고 간단히 설명해줘."}]}
+{"id":"long_context","messages":[{"role":"user","content":"AI 반도체 추론 서버를 도입하려는 기업에게 성능, 전력, 메모리, 운영 안정성 관점의 평가 체크리스트를 작성해줘."}]}
+

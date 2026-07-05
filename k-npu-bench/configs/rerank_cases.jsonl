@@ -1,0 +1,2 @@
+{"id":"rag_ko","query":"국산 NPU에서 OpenAI 호환 서버를 구축하는 방법","documents":["Furiosa-LLM은 OpenAI 호환 API 서버를 제공한다.","DEEPX DXNN은 ONNX 모델을 dxnn 파일로 컴파일한다.","RBLN vLLM 플러그인은 RBLN NPU에서 LLM serving을 지원한다."]}
+
